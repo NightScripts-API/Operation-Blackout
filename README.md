@@ -2024,3 +2024,19 @@ Jett Preston
 Teagan May
 Nikhil Roth
 Marisol Bernard
+# Operation
+Operation Blackout is an Attempt to remove GoGuardian, Schools have been using GoGuardian Issued Spy-Trackers to figure Students using this Customized API. {}{}{}
+There has been a info leak from a Student at Webster (SCHOOL) MA. {}{}{}
+The info has released Sensitive Data such as the Website, The Students Using it, And other Major Units, The data was kept Encrypted but due to some Issues of the 502 Error it has been Compromised. {}{}{}
+This operation was created by a Student In Webster MA, Nobody knows the Exact Identity.
+{}{}{}
+# Blackout
+The Blackout stage was Comprimising GoGuardians Filtering Files and Intruding the Privacy. {}{}{}
+GoGuardian Issued out the Trackers after the Student released the Compromised Info. {}{}{} 
+After this Incident a Branch Team from the organization Known as Anonymous Released a branch called Operation AntiSec to Help the Filtering.
+# Updates And Info
+Operation AntiSec Anonymous Patched Port 837843
+# Version
+1.0.9
+# Creator Note
+Stay safe Students, I will be Hiding Indetitys of my Friendly Users Intel Towards the Fowarding of USM!
