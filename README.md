@@ -2027,7 +2027,7 @@ Marisol Bernard
 # Operation
 Operation Blackout is an Attempt to remove GoGuardian, Schools have been using GoGuardian Issued Spy-Trackers to figure Students using this Customized API. {}{}{}
 There has been a info leak from a Student at Webster (SCHOOL) MA. {}{}{}
-The info has released Sensitive Data such as the Website, The Students Using it, And other Major Units, The data was kept Encrypted but due to some Issues of the 502 Error it has been Compromised. {}{}{}
+The info has released Sensitive Data such as the Website, The Students Using it, And other Major Units, The data was kept Encrypted but due to some Issues of the 7262hell Error it has been Compromised. {}{}{}
 This operation was created by a Student In Webster MA, Nobody knows the Exact Identity.
 {}{}{}
 # Blackout
